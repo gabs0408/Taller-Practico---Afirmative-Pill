@@ -41,17 +41,17 @@ cd Taller-Practico---Afirmative-Pill
 ```
 2. Configurar y Ejecutar el Backend
 
-Bash
+```
 cd afirmative-pill-backend
 npm install
 npm run dev
 (El servidor GraphQL correrá por defecto en http://localhost:4000/)
 ```
-```
+
 
 3. Configurar y Ejecutar el Frontend
 Abre una nueva terminal, navega a la carpeta del frontend e inicia la aplicación:
-```bash
+```
 
 cd afirmative-pill-frontend
 npm install
