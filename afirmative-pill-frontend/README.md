@@ -38,18 +38,23 @@ Repositorio oficial del taller práctico de patrones arquitectónicos. Este proy
 ```bash
 git clone [https://github.com/gabs0408/Taller-Practico---Afirmative-Pill.git](https://github.com/gabs0408/Taller-Practico---Afirmative-Pill.git)
 cd Taller-Practico---Afirmative-Pill
+```
 2. Configurar y Ejecutar el Backend
+
 Bash
 cd afirmative-pill-backend
 npm install
 npm run dev
 (El servidor GraphQL correrá por defecto en http://localhost:4000/)
+```
+```
 
 3. Configurar y Ejecutar el Frontend
 Abre una nueva terminal, navega a la carpeta del frontend e inicia la aplicación:
+```bash
 
-Bash
 cd afirmative-pill-frontend
 npm install
 npm run dev
 (Vite abrirá la interfaz visual en http://localhost:5173/)
+```
